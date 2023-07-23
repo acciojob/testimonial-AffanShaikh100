@@ -4,7 +4,7 @@
       width: 700px;
 	  padding: 40px;
 	  font-family: read-write-plaintext-only;
-	  font-family: italic;
+	  
 }
 .quote1{
 	 background-color:white;
@@ -21,8 +21,10 @@
 	  padding-left: 10px;
 }
 #one{
+	font-style:italic;
 	text-align: right;
 }
 #two{
+	font-style:italic;
 	text-align: right;
 }
